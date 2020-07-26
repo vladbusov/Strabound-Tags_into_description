@@ -5,8 +5,8 @@
 ## Todo list:
 - [x] Make a code for editing conf files of the game
 - [x] Make useful .bat files for packing and unpacking .pak file
-- [ ] Make easy installable mode
-- [ ] Publish a mod to the Steam community
+- [x] Make easy installable mode
+- [x] Publish a mod to the Steam community https://steamcommunity.com/sharedfiles/filedetails/?id=2178954030
 # WARNING! Don't forget to make a backup file .pak
 #### Need to do:
 * place .bat files into assets folder
